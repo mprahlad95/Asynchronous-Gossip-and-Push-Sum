@@ -1,4 +1,9 @@
-# Proj2
+# Asynchronous-Gossip-and-Push-Sum
+
+## Goal
+Determine the most optimum network for group communication and aggregate communication.
+* Gossip: Find the amount of time taken for every node to recieve a message, starting from one node with multiple network topologies and draw a graph to depict this.
+* Push-Sum: Find the amount of time taken to find the closest approximation to the sum of all the values in the nodes with multiple network topoliges and draw a graph to depict this.
 
 ## Group members
 
